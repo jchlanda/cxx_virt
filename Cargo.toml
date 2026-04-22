@@ -1,0 +1,4 @@
+[package]
+name = "rust_cxx_virt"
+edition = "2024"
+build = "build.rs"
