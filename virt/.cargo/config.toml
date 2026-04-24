@@ -1,0 +1,2 @@
+[target.aarch64-unknown-linux-pauthtest]
+linker = "/home/jakub/Work/AccessSoftek/rust/aarch64-unknown-linux-pauthtest-clang++"
